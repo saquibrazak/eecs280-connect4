@@ -7,7 +7,7 @@
  * 2021-03-12
  */
 
-#include "game.hpp"
+#include "Game.hpp"
 #include "unit_test_framework.hpp"
 #include <sstream>
 using namespace std;
