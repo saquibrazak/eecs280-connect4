@@ -1,4 +1,4 @@
-#include "game.hpp"
+#include "Game.hpp"
 #include "CommandUI.hpp"
 #include <thread>
 #include <chrono>
