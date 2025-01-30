@@ -1,7 +1,7 @@
 #ifndef STREAM_UI_HPP
 #define STREAM_UI_HPP
 
-#include "game.hpp"
+#include "Game.hpp"
 #include <iostream>
 
 
